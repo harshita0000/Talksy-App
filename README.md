@@ -1,9 +1,9 @@
-💬 Talksy - Real-Time Chat Application
+# 💬 Talksy - Real-Time Chat Application
 
 A modern full-stack chat platform built using React (Vite) and Node.js (Express).
 Talksy enables users to connect instantly through real-time messaging with secure authentication and a responsive UI.
 
-🚀 Features
+# 🚀 Features
 
 💡 Core Functionality
 
